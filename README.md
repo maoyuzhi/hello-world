@@ -30,6 +30,7 @@ C/C++学习路线
 《Essential C++》
 
 《C++ Primer》
+
 C++编译器对象管理模型分析；
 类对象的动态管理(new/delete)；
 友元函数和友元类；
