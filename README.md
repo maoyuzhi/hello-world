@@ -38,6 +38,7 @@ C++输入输出流(标准I/O 文件I/O 字符流I/O)；
 C++异常处理(异常机制、异常类型、异常变量、异常层次结构、标准异常库)；
 
 二、C/C++开发进阶
+
 《Effective C++》和《More effective C++》
 《Inside the C++ object model（深度探索C++对象模型）》
 ①    C++进阶之STL
@@ -69,6 +70,7 @@ STL = Standard Template Library，即标准模板库。这是提高开发效率�
 
 ⑥ C++进阶之数据库开发
 掌握SQL语言的实用技巧。Oracle,MySQL数据库的使用方式。
+
 
 from
 https://www.cnblogs.com/chengjian-physique/p/8076346.html
